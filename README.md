@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 #### Connect with me
 ##
 <div>
-  <a href="www.linkedin.com/in/alinevaladaop" > <img
+  <a href="https://www.linkedin.com/in/alinevaladaop" > <img
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="110" height="30"/> </a> 
   <a href="mailto:valadao.aline@gmail.com"> <img
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkedin" width="110" height="30"/> </a> 
