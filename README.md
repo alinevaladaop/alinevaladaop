@@ -1,7 +1,7 @@
 ### Hi there, I'm Aline Valadão.
 
 - 🇧🇷 A brazilian Student of Full Stack Software Development
-- 🌱 I’m currently learning JavaScript, React JS and Redux
+- 🌱 I’m currently learning TypeScript
 
 
 #### Languages and Tools:
